@@ -99,5 +99,5 @@ class DownloadOrganizerApp:
 if __name__ == "__main__":
     root: tk.Tk = tk.Tk()
 
-    app = DownloadOrganizerApp(root)
+    DownloadOrganizerApp(root)
     root.mainloop()
